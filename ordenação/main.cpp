@@ -20,8 +20,6 @@ int main() {//essa parte da main para vetor foi feita por: Felipe gabriel da sil
         menu();
         cin >> op;
         
-        //fiz testes com os valores no arquivo de exemplo pois meu pc não aguentou o bubble sorte
-        // com esses valores recomendado no pdf, ele simplesmente travou, pelo fato do meu pc ser antigo
         
         const int tam[] = {1000, 5000, 10000, 50000, 100000,500000, 1000000};//500,1000,2000,3000,4000,5000,6000,7000,8000,9000,10000,11000,12000,13000,14000,15000,20000};
         
